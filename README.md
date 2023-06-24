@@ -7,7 +7,12 @@
 
  
 This application allows user to generate a SVG logo through the CLI, user has access to three shapes square/triangle/circle and text option for generating their log which would be generated as logo.svg file in repo root directory 
+https://drive.google.com/file/d/1VccTDmJKuwYKin8fNQqiCNFVnnVOIker/view?usp=sharing
+https://drive.google.com/file/d/13WJ-LahBUIT31Bt6XIqH6xtkhwyFwHzl/view?usp=sharing
 
+
+first submission without class (updated access)
+https://drive.google.com/file/d/1FI8MHYz6ZSD2guDvcfdsVKL2yV-zKpPJ/view?usp=sharing
 
 
 

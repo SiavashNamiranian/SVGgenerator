@@ -37,9 +37,7 @@ const {Triangle, Square, Circle} = require('./lib/shapes');
         ])
 
         .then((response) => {
-            console.log(response.shape);
-            console.log(typeof'response.shape');
-            console.log(response.shape === 'Triangle');
+
             if (response.shape === 'Triangle') {
 
                 const shape = new Triangle(response.color, response.logo, response.logocol);
